@@ -1,0 +1,11 @@
+{
+  "name": "escrow-release",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.js"
+  }
+}

@@ -1,0 +1,27 @@
+answers/
+
+# Node / React
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+
+# Java
+*.class
+
+# C++
+release_test
+release_test.exe
+
+# Rust / Solana
+target/
+
+# Foundry / Solidity
+out/
+cache/
+
+# Python
+__pycache__/
+*.pyc
